@@ -40,7 +40,7 @@ A real-time visualier to evaluate the model on the zeroing interference goal.
 ### Getting Started
 1. **Clone the repository:**
 ```bash
- git clone [https://github.com/pianapolataa/anyskin-leaphand.git](https://github.com/pianapolataa/anyskin-leaphand.git)
+ git clone https://github.com/pianapolataa/anyskin-leaphand.git
  cd anyskin-leaphand
  ```
 2. **Install dependencies**
