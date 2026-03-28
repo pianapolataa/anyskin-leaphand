@@ -1,6 +1,6 @@
 # AnySkin - Leap Hand: Magnetic Interference Compensation
 
-This work implements a neural network-based solution for magnetic interference in **AnySkin** tactile sensors when integrated on a **Leap Hand**, specifically when fingers are brought close to each other. This model predicts these interference readings based on finger proprioception data and subtracta them from the raw readings to ensure that sensor output remains close to 0 at positions of no contact.
+This work implements a neural network-based solution for magnetic interference between **AnySkin** tactile sensors when integrated on a **Leap Hand**, specifically when fingers are brought close to each other. This model predicts these interference readings based on finger proprioception data and subtracts them from the raw readings to ensure that sensor output remains close to 0 at positions of no contact.
 
 ---
 ## Features
